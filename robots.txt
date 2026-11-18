@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rutba-dot-pk.github.io/sitemap.xml
